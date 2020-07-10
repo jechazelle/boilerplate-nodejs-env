@@ -1,0 +1,6 @@
+# Project #
+node_modules
+
+# Real projet, uncomment
+#env/.env.dev
+#env/.env.prod
